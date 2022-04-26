@@ -1,0 +1,10 @@
+body{ 
+    background-color:#edddc6;
+}
+
+input{ 
+    background-color:#f0905c;
+    border-radius: 4px;
+    color: white;
+    padding: 15px
+}
